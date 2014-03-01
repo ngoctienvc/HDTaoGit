@@ -1,0 +1,18 @@
+c:\users\ngoctien\documents\visual studio 2010\Projects\Baitap2\Baitap2\bin\Debug\Baitap2.exe
+c:\users\ngoctien\documents\visual studio 2010\Projects\Baitap2\Baitap2\bin\Debug\Baitap2.pdb
+c:\users\ngoctien\documents\visual studio 2010\Projects\Baitap2\Baitap2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ngoctien\documents\visual studio 2010\Projects\Baitap2\Baitap2\obj\x86\Debug\Baitap2.Form1.resources
+c:\users\ngoctien\documents\visual studio 2010\Projects\Baitap2\Baitap2\obj\x86\Debug\Baitap2.Properties.Resources.resources
+c:\users\ngoctien\documents\visual studio 2010\Projects\Baitap2\Baitap2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ngoctien\documents\visual studio 2010\Projects\Baitap2\Baitap2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ngoctien\documents\visual studio 2010\Projects\Baitap2\Baitap2\obj\x86\Debug\Baitap2.exe
+c:\users\ngoctien\documents\visual studio 2010\Projects\Baitap2\Baitap2\obj\x86\Debug\Baitap2.pdb
+C:\Users\NgocTien\Desktop\1164136\Baitap2\Baitap2\obj\x86\Debug\Baitap2.exe
+C:\Users\NgocTien\Desktop\1164136\Baitap2\Baitap2\obj\x86\Debug\Baitap2.pdb
+C:\Users\NgocTien\Desktop\1164136\Baitap2\Baitap2\bin\Debug\Baitap2.exe
+C:\Users\NgocTien\Desktop\1164136\Baitap2\Baitap2\bin\Debug\Baitap2.pdb
+C:\Users\NgocTien\Desktop\1164136\Baitap2\Baitap2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NgocTien\Desktop\1164136\Baitap2\Baitap2\obj\x86\Debug\Baitap2.Form1.resources
+C:\Users\NgocTien\Desktop\1164136\Baitap2\Baitap2\obj\x86\Debug\Baitap2.Properties.Resources.resources
+C:\Users\NgocTien\Desktop\1164136\Baitap2\Baitap2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NgocTien\Desktop\1164136\Baitap2\Baitap2\obj\x86\Debug\GenerateResource.write.1.tlog
